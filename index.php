@@ -3,7 +3,7 @@ session_start();
 ?>
 <html>
     <head>
- 
+    <!-- este es un ejemplo de comentario -->
         <link rel="icon" type="image/png" href="escudo.png" />
         <title>Sueldopoli</title>
 
