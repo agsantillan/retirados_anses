@@ -19,7 +19,8 @@
 
 
 		//PARA ARREGLAR PROBLEMA DEL ENCODING Ñ
-		//mysql_set_charset("UTF8", $conexion);                
+		//mysql_set_charset("UTF8", $conexion);
+	    //prueba de modificacion con github 20abr22 1045
         ?>
 
     </body>
