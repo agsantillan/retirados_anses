@@ -32,6 +32,7 @@ session_start();
 
 
             <?php
+            //Y ahora
             include 'menu.php';
             ?>
 
