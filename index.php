@@ -33,6 +33,7 @@ session_start();
 
             <?php
             //Y ahora
+            //probando desde remoto
             include 'menu.php';
             ?>
 
